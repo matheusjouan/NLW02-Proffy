@@ -19,7 +19,7 @@ A ideia foi desenvolver uma aplicação de estudos, onde alunos poderiam encontr
 
 ---
 
-## :rocket:Tecnologias Utilizadas
+## :rocket: Tecnologias Utilizadas
 
 - 🌎 Backend:
   - NodeJS;
@@ -35,7 +35,7 @@ A ideia foi desenvolver uma aplicação de estudos, onde alunos poderiam encontr
   - TypeScript;
   - Axios.
   
-- 📱  Mobile ():
+- 📱  Mobile:
   - React Native;
   - TypeScript;
   - Expo
@@ -68,7 +68,7 @@ $ yarn start
 
 ---
 
-## :hammer:Features Implementadas
+## :hammer: Features Implementadas
 
 ### Backend:
 
