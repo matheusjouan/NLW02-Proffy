@@ -68,7 +68,7 @@ $ yarn start
 
 ---
 
-## Features Implementadas
+## :hammer:Features Implementadas
 
 ### Backend:
 
