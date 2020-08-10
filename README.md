@@ -1,3 +1,11 @@
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/matheusjouan/NLW02-Proffy/master/proffyImg.png" width="320px"/>
+<p align="center"><i>Plataforma que conecta professores e alunos.</i></p>
+</p>
+
+
 # NLW02-Proffy
 Aplicação de estudos, onde alunos poderiam encontrar professores disponíveis nas matérias que o aluno desejava e marcar uma aula com ele. Tecnologiais: NodeJS, ReactJS, React Native.
 
@@ -38,24 +46,24 @@ A ideia foi desenvolver uma aplicação de estudos, onde alunos poderiam encontr
   ## 👨‍💻️ Como Usar  :
 
 ```shell
-git clone git@github.com:jjunior96/NLW02-Proffy.git
-cd NLW02-Proffy
+$ git clone git@github.com:jjunior96/NLW02-Proffy.git
+$ cd NLW02-Proffy
 
 # Iniciando o Servidor Backend (localhost:3333)
-cd backend
-yarn install
-yarn start
+$ cd backend
+$ yarn install
+$ yarn start
 
 # Iniciando a Aplicação Web (localhost:3000)
-cd web
-yarn install
-yarn start
+$ cd web
+$ yarn install
+$ yarn start
 
 # Iniciando a Aplicação Mobile (expo)
-cd mobile
-yarn  install
-yarn start
-Scanear com a camêra do celular o QR Code fornecido pelo Expo
+$ cd mobile
+$ yarn  install
+$ yarn start
+# Scanear com a camêra do celular o QR Code fornecido pelo Expo
 ```
 
 ---
