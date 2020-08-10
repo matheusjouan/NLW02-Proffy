@@ -46,7 +46,7 @@ A ideia foi desenvolver uma aplicação de estudos, onde alunos poderiam encontr
 ## 👨‍💻️ Como Usar  :
 
 ```shell
-$ git clone git@github.com:jjunior96/NLW02-Proffy.git
+$ git clone https://github.com/matheusjouan/NLW02-Proffy.git
 $ cd NLW02-Proffy
 
 # Iniciando o Servidor Backend (localhost:3333)
