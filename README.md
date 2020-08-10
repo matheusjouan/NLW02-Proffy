@@ -19,7 +19,7 @@ A ideia foi desenvolver uma aplicação de estudos, onde alunos poderiam encontr
 
 ---
 
-## :rocket: Tecnologias Utilizadas
+## :rocket:Tecnologias Utilizadas
 
 - 🌎 Backend:
   - NodeJS;
@@ -43,7 +43,7 @@ A ideia foi desenvolver uma aplicação de estudos, onde alunos poderiam encontr
   
   ---
   
-  ## 👨‍💻️ Como Usar  :
+## 👨‍💻️ Como Usar  :
 
 ```shell
 $ git clone git@github.com:jjunior96/NLW02-Proffy.git
