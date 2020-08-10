@@ -61,6 +61,8 @@ Scanear com a camêra do celular o QR Code fornecido pelo Expo
 
 ---
 
+## Features Implementadas
+
 # Backend:
 
   - [x] Criação de classes (Professor/aula/horários disponíveis);
