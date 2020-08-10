@@ -63,20 +63,20 @@ Scanear com a camêra do celular o QR Code fornecido pelo Expo
 
 ## Features Implementadas
 
-# Backend:
+### Backend:
 
   - [x] Criação de classes (Professor/aula/horários disponíveis);
   - [x] Listagem de classes;
   - [x] Criação de Conexões feita entre aluno interesado pela aula e professor;
   - [x] Listagem total de número conexões já realizadas.
 
-# Frontend:
+### Frontend:
   - [x] Criação de classes (Professor/aula/horários disponíveis);
   - [x] Listagem de classes através de um filtro de pesquisa (matéria, dia da semana, horário);
   - [x] Criação de Conexões feita entre aluno interesado pela aula e professor através do whatspapp.
   - [x] Listagem total de número conexões já realizadas.
 
-# Mobile
+### Mobile
 
   - [x] Listagem de classes através de um filtro de pesquisa (matéria, dia da semana, horário);
   - [x] Criação de Conexões feita entre aluno interesado pela aula e professor através do whatspapp.
