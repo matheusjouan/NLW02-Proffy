@@ -25,7 +25,6 @@ A ideia foi desenvolver uma aplicação de estudos, onde alunos poderiam encontr
   - ReacJS;
   - React Router DOM;
   - TypeScript;
-  - Hooks;
   - Axios.
   
 - 📱  Mobile ():
